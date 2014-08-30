@@ -27,16 +27,21 @@ $(document).ready(function() {
 
     $("#contact-button").click(function() {
 
-        $("paper-tabs")[0].selected = "2";
+        $("html, body").animate({ scrollTop: 0 }, 750, "easeOutQuad", function() {
 
-        $("#contact-tab").click();
+            $("paper-tabs")[0].selected = "2";
+            $("#contact-tab").click();
+
+        });
+
+
 
     });
 });
 
 function switchTab(tabClass)
 {
-    var totalFadeDuration = 500; // in ms
+    var totalFadeDuration = 250; // in ms
 
     var openPanel = $(".panel-faded-in");
 

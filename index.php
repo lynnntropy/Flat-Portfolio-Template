@@ -4,6 +4,8 @@
         <meta charset="utf-8">
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css" />
+        <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
 
         <script src="bower_components/platform/platform.js"></script>
         <script src="js/bootstrap.min.js"></script>
@@ -61,10 +63,6 @@
                             <div align="center">Contact and social stuff goes here!</div>
                         </div>
                     </div>
-
-<!--                    <div class="test-center-page">-->
-<!--                        <paper-checkbox></paper-checkbox>-->
-<!--                    </div>-->
                 </div>
             </div>
             <div class="footer">
