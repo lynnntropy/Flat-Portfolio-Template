@@ -111,7 +111,7 @@ paper-tab
 
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 80%;
 
     /*transition: opacity 0.5s;*/
 }
@@ -194,6 +194,87 @@ paper-tab
 .contact
 {
     /*debug*/
-    padding-top: 500px;
-    padding-bottom: 500px;
+    /*padding-top: 500px;*/
+    /*padding-bottom: 500px;*/
+}
+
+.contact-social-button
+{
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 300;
+
+    font-size: 1.5em;
+
+    width: 17%;
+
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.social-buttons
+{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.contact > .contact-tagline
+{
+    text-align: center;
+
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 300;
+
+    font-size: 3em;
+}
+
+.contact > .email
+{
+    text-align: center;
+
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 300;
+
+    font-size: 2em;
+}
+
+.contact > .form-separator
+{
+    text-align: center;
+
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 300;
+
+    font-size: 1.5em;
+
+    padding: 15px;
+    padding-bottom: 21px;
+}
+
+.contact > .contact-form
+{
+    text-align: center;
+
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-weight: 300;
+
+    font-size: 1em;
+
+    margin: 0 auto;
+    width: 40%;
+}
+
+fieldset > input
+{
+    margin-bottom: 13px;
+}
+
+fieldset > textarea
+{
+    height: 170px !important;
+}
+
+fieldset > button
+{
+    margin-top: 16px;
+    width: 30%;
 }

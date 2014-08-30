@@ -41,7 +41,7 @@ $(document).ready(function() {
 
 function switchTab(tabClass)
 {
-    var totalFadeDuration = 250; // in ms
+    var totalFadeDuration = 350; // in ms
 
     var openPanel = $(".panel-faded-in");
 
