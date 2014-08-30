@@ -33,8 +33,11 @@ $(document).ready(function() {
             $("#contact-tab").click();
 
         });
+    });
 
+    $("#messageSubmitButton").click(function() {
 
+        // put your message sending code here!
 
     });
 });

@@ -125,25 +125,28 @@
                         <div class="contact panel-faded-out inactive-content">
 
                             <div class="social-buttons">
-                                <button type="button" class="btn btn-default contact-social-button">
+
+
+                                <a href="http://github.com/omegavesko" class="btn btn-default contact-social-button">
                                     <i class="fa fa-github-alt"></i>
                                     Github
-                                </button>
+                                </a>
 
-                                <button type="button" class="btn btn-default contact-social-button">
+
+                                <a href="http://facebook.com/omegavesko" class="btn btn-default contact-social-button">
                                     <i class="fa fa-facebook-square"></i>
                                     Facebook
-                                </button>
+                                </a>
 
-                                <button type="button" class="btn btn-default contact-social-button">
+                                <a href="http://omegavesko.tumblr.com" class="btn btn-default contact-social-button">
                                     <i class="fa fa-tumblr-square"></i>
                                     Tumblr
-                                </button>
+                                </a>
 
-                                <button type="button" class="btn btn-default contact-social-button">
+                                <a href="http://twitter.com/omegavesko" class="btn btn-default contact-social-button">
                                     <i class="fa fa-twitter"></i>
                                     Twitter
-                                </button>
+                                </a>
 
                             </div>
 
@@ -164,7 +167,7 @@
                                         <input id="email" name="email" type="text" placeholder="Your email" class="form-control input-md" required="">
                                         <textarea class="form-control" id="body" name="body">Message body</textarea>
 
-                                        <button id="submitbutton" name="submitbutton" class="btn btn-primary">Send</button>
+                                        <button id="messageSubmitButton" name="submitbutton" class="btn btn-primary">Send</button>
 
                                     </fieldset>
                                 </form>
