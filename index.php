@@ -2,12 +2,12 @@
 
     <head>
         <meta charset="utf-8">
+        <script src="bower_components/platform/platform.js"></script>
 
         <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
         <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css" />
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
 
-        <script src="bower_components/platform/platform.js"></script>
         <script src="js/bootstrap.min.js"></script>
 
         <link href='http://fonts.googleapis.com/css?family=Roboto:500,700,400,100,300' rel='stylesheet' type='text/css'>
@@ -26,63 +26,12 @@
         <link rel="import" href="bower_components/paper-input/paper-input.html">
 
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+
+        <script src="lightbox/js/lightbox.min.js"></script>
+        <link href="lightbox/css/lightbox.css" rel="stylesheet" />
     </head>
 
     <body>
-
-<!--        <polymer-element-->
-<!--            name="omega-social-button"-->
-<!--            extends="paper-button">-->
-<!--            <template>-->
-<!--            </template>-->
-<!--            <script>-->
-<!---->
-<!--                Polymer('omega-social-button', {-->
-<!--                    test: 'test'-->
-<!--                });-->
-<!---->
-<!--            </script>-->
-<!--        </polymer-element>-->
-
-        <polymer-element name="new-button" extends="paper-button">
-
-            <template>
-
-                <content></content>
-
-            </template>
-
-        </polymer-element>
-        <script>
-            Polymer('new-button',
-                {
-                    created: function ()
-                    {
-                        console.log('EXTENDED ITEM IS CREATED!');
-                    },
-                    ready: function ()
-                    {
-                        console.log('EXTENDED ITEM IS READY!');
-                    },
-                    attached: function ()
-                    {
-                        console.log('EXTENDED ITEM IS ATTACHED!');
-                    },
-                    domReady: function ()
-                    {
-                        console.log('EXTENDED ITEMS DOM IS READY!');
-                    },
-                    detached: function ()
-                    {
-                        console.log('EXTENDED ITEM IS DETACHED!');
-                    },
-                    attributeChanged: function (attrName, oldVal, newVal)
-                    {
-                        //var newVal = this.getAttribute(attrName);
-                        console.log(attrName, 'old: ' + oldVal, 'new:', newVal);
-                    }
-                });
-        </script>
 
         <div class="container">
             <div class="main-paper card paper-shadow-top-z-1">
@@ -119,7 +68,108 @@
                         </div>
 
                         <div class="projects panel-faded-out inactive-content">
-                            <div align="center">Projects go here!</div>
+
+                            <div class="project">
+                                <div class="project-title">First fancy project</div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="first-project" href="img/stock_photos/penguin-429125_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/penguin-429125_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="first-project" href="img/stock_photos/penguins-429128_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/penguins-429128_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="first-project" href="img/stock_photos/bible-428947_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/bible-428947_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <p class="important-details"><b>Skills used:</b> Very fancy skills, Fancier skills, Extremely fancy skills.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                            </div>
+
+                            <div class="project">
+                                <div class="project-title">Second fancy project</div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="second-project" href="img/stock_photos/clouds-429228_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/clouds-429228_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="second-project" href="img/stock_photos/flowers-429041_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/flowers-429041_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="second-project" href="img/stock_photos/pistachio-428544_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/pistachio-428544_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <p class="important-details"><b>Skills used:</b> Very fancy skills, Fancier skills, Extremely fancy skills.</p>
+                                <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            </div>
+
+                            <div class="project">
+                                <div class="project-title">Third fancy project</div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="third-project" href="img/stock_photos/shoes-428608_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/shoes-428608_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="third-project" href="img/stock_photos/sunset-429618_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/sunset-429618_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="image-card card paper-shadow-top-z-1">
+                                    <div class="card-inner paper-shadow-bottom-z-1">
+                                        <a data-lightbox="third-project" href="img/stock_photos/raspberry-427390_640.jpg">
+                                            <div class="card-image" style="background-image: url('img/stock_photos/raspberry-427390_640.jpg')"></div>
+                                            <div class="image-zoom-hint">click to enlarge</div>
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <p class="important-details"><b>Skills used:</b> Very fancy skills, Fancier skills, Extremely fancy skills.</p>
+                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            </div>
                         </div>
 
                         <div class="contact panel-faded-out inactive-content">

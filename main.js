@@ -40,6 +40,38 @@ $(document).ready(function() {
         // put your message sending code here!
 
     });
+
+    $(".card-image").hover(function() {
+
+        $(this).parent().find(".image-zoom-hint").addClass("faded-in");
+
+    });
+
+    $(".card-image").mouseleave(function() {
+
+        $(this).parent().find(".image-zoom-hint").removeClass("faded-in");
+
+    });
+
+//    window.addEventListener('polymer-ready', function(e) {
+//
+//        $(".card-image").hover(function() {
+//
+//            $(this).parent().find(".image-zoom-hint").addClass("faded-in");
+//
+//        });
+//
+//        $(".card-image").mouseleave(function() {
+//
+//            $(this).parent().find(".image-zoom-hint").removeClass("faded-in");
+//
+//        });
+//
+//        $()
+//
+//    });
+
+
 });
 
 function switchTab(tabClass)
