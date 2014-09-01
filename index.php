@@ -2,9 +2,13 @@
 
     <head>
         <meta charset="utf-8">
+
+        <title>Portfolio</title>
+
         <script src="bower_components/platform/platform.js"></script>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<!--        <script src="js/custom-jquery-2.1.1.js"></script>-->
+        <script src="lightbox/js/jquery-1.11.0.min.js"></script>
         <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css" />
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
 
@@ -27,8 +31,14 @@
 
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-        <script src="lightbox/js/lightbox.min.js"></script>
-        <link href="lightbox/css/lightbox.css" rel="stylesheet" />
+<!--        <script src="lightbox/js/jquery-1.11.0.min.js"></script>-->
+<!--        <script src="lightbox/js/lightbox.min.js"></script>-->
+<!--        <link href="lightbox/css/lightbox.css" rel="stylesheet" />-->
+
+        <!-- Magnific Popup core CSS file -->
+        <link rel="stylesheet" href="magnific-popup/magnific-popup.css">
+        <!-- Magnific Popup core JS file -->
+        <script src="magnific-popup/mp.js"></script>
     </head>
 
     <body>
@@ -74,7 +84,7 @@
 
                                 <div class="image-card card paper-shadow-top-z-1">
                                     <div class="card-inner paper-shadow-bottom-z-1">
-                                        <a data-lightbox="first-project" href="img/stock_photos/penguin-429125_640.jpg">
+                                        <a class="zoomable-image" href="img/stock_photos/penguin-429125_640.jpg">
                                             <div class="card-image" style="background-image: url('img/stock_photos/penguin-429125_640.jpg')"></div>
                                             <div class="image-zoom-hint">click to enlarge</div>
                                         </a>
@@ -218,13 +228,8 @@
                                         <textarea class="form-control" id="body" name="body">Message body</textarea>
 
                                         <button id="messageSubmitButton" name="submitbutton" class="btn btn-primary">Send</button>
-
                                     </fieldset>
                                 </form>
-
-
-                                <!--                                <paper-input multiline rows="4" label="Message body"></paper-input>-->
-<!--                                <br><paper-input multiline label="This input is 3 rows high" style="height: 200px;"></paper-input>-->
                             </div>
 
                         </div>
