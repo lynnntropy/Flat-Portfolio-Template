@@ -81,7 +81,7 @@
 //    });
 
         $('.image-card > div > a').magnificPopup({
-            type: 'image',
+            type: 'image'
 //            mainClass: 'mfp-with-zoom', // this class is for CSS animation below
 
 //            zoom: {

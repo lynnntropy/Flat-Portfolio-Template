@@ -1,9 +1,126 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title>Portfolio help</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Roboto:500,700,400,100,300' rel='stylesheet' type='text/css'>
+    <style>
+
+        body
+        {
+            background-color: #eeeeee;
+
+            padding-left: 30px;
+            padding-right: 35%;
+
+            padding-bottom: 50px;
+        }
+
+        h1
+        {
+            font-size: 3em;
+
+            font-family: 'Roboto', Helvetica, sans-serif;
+            font-weight: 300;
+        }
+
+        h2
+        {
+            font-size: 2em;
+
+            font-family: 'Roboto', Helvetica, sans-serif;
+            font-weight: 300;
+
+            margin-bottom: 0;
+            padding-bottom: 0;
+        }
+
+        p
+        {
+            padding-top: 0;
+            margin-top: 0;
+
+            margin-bottom: 10px;
+
+            font-family: 'Roboto', Helvetica, sans-serif;
+            font-weight: 300;
+
+            font-size: 1.2em;
+        }
+
+        li
+        {
+            font-family: 'Roboto', Helvetica, sans-serif;
+            font-weight: 300;
+
+            font-size: 1.2em;
+
+            margin-bottom: 7px;
+        }
+
+    </style>
 </head>
+
 <body>
 
+    <h1>Getting started</h1>
+
+    <p>Thank you for purchasing the template! This guide is here to help you get started with customizing it to your preferences.</p>
+
+    <h2>Replacing the cover page text</h2>
+    <p>The current cover page of your portfolio is filled with Lorem Ipsum, the standard placeholder text that you're probably already familiar with.</p>
+    <p>You'll certainly want to replace it with your own elevator pitch to get people interested in your work, so here's how you can easily do that:</p>
+
+    <ul>
+        <li>Open your index.html file, and find the part that says 'Who am I'.</li>
+        <li>Find the current placeholder text, right below that. It's between a pair of &lt;p&gt; tags and starts with 'lorem ipsum'.</li>
+        <li>Simply delete the placeholder text and replace it with your own.</li>
+    </ul>
+
+    <h2>Replacing the placeholder portfolio images</h2>
+    <p>The images in the portfolio are currently public domain photographs used to demonstrate the functionality. Since you'll want to
+    replace these with your own projects here's how:</p>
+
+    <ul>
+        <li>Open index.html if you haven't already, and find the part that starts with  <br>&lt;div class="projects panel-faded-out inactive-content"&gt;.</li>
+        <li>Find the elements that start with <br>&lt;div class="image-card card paper-shadow-top-z-1"&gt;. Each one of these is displayed as a portfolio
+        image on your website.</li>
+        <li>For each of these elements, simply replace the image URLs (there are two for each image) with the location of your own image. This can
+        be either an image hosted on your own website, or an external link (Imgur, Tumblr, Flickr, and so on).</li>
+    </ul>
+
+    <h2>Adding/removing projects from your portfolio</h2>
+    <p>Even once you've replaced the images for each project, there's a slim chance you want exactly three projects in
+    your portfolio. Follow this guide to add or remove projects from the portfolio to suit your needs.</p>
+
+    <ul>
+        <li>Open index.html if you haven't already, and find the parts that start with  <br>&lt;div class="projects panel-faded-out inactive-content"&gt;.</li>
+        <li>Each of these is displayed as a single project in your portfolio.</li>
+        <li>To delete the project, just delete the entire element, starting with the line you found and ending with '&lt;/div&gt;'.</li>
+        <li>To add another project, copy the element (starting with the line you found and ending with '&lt;/div&gt;') and paste it below or
+        above the element. Then you can proceed to replace the text and images as shown above.</li>
+    </ul>
+
+    <h2>Enabling the contact form (advanced)</h2>
+    <p>Since the template is a simple HTML/JS/CSS template with no server-side component, you will have to implement this functionality yourself
+    if you want the contact form to work. Generally, you'll want the submit button to either submit the form's contents via HTTP POST (and then
+    send that message somehow by catching it with serverside code, e.g. PHP), or send it to a third-party email-sending service via a clientside API
+    (i.e. JavaScript code).</p>
+
+    <p>Since this is an advanced procedure intentionally left vague due to differences in implementation, there is no step-by-step guide.</p>
+
+    <p><b>Note:</b> if you wish to remove the contact form so your visitors do no get confused by it, remove the element starting with
+    <br> &lt;div class="contact-form"&gt; from your index.html.</p>
+
+    <h2>Changing any other text content in the template</h2>
+    <p>If you want to change any text on your website that isn't specifically covered by the guide, follow these steps:</p>
+
+    <ul>
+        <li>Open index.html if you haven't already, and the text you want to change. Most text editors have a 'find' feature you can use to do this quickly.</li>
+        <li>Once you've found the text, select it in its entirety, and hit delete.</li>
+        <li>Fill the space left by the text you deleted with whatever text you wish to replace it with.</li>
+    </ul>
+
 </body>
+
 </html>

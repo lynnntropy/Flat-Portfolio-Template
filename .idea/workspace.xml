@@ -2,11 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71f1ff62-d1a7-4dc6-ae04-ca1f0650ce46" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/magnific-popup/mp.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.css" afterPath="$PROJECT_DIR$/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/help.html" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\fonts\glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\fonts\glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\fonts\glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\close.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\image-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\thumb-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\thumb-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\thumb-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\thumb-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\thumb-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\demopage\thumb-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\next.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\img\prev.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\js\custom-jquery-2.1.1.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\README.markdown" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\css\lightbox.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\close.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\favicon.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\image-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\image-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\image-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\image-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\image-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\image-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\thumb-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\thumb-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\thumb-3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\thumb-4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\thumb-5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\demopage\thumb-6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\next.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\img\prev.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\js\jquery-1.11.0.min.map" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\js\lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\js\lightbox.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\Development\WebDev\Portfolio\lightbox\js\lightbox.min.map" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/web-animations-js/tutorial/jquery.js" afterPath="$PROJECT_DIR$/bower_components/web-animations-js/tutorial/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/google-code-prettify/src/lang-n.js" afterPath="$PROJECT_DIR$/bower_components/google-code-prettify/src/lang-n.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="D:\Development\WebDev\Portfolio\index.php" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="Portfolio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,13 +78,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="96" column="74" selection-start="5439" selection-end="5439" vertical-scroll-proportion="-13.730769" vertical-offset="1275" max-vertical-offset="4301">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state line="10" column="21" selection-start="244" selection-end="244" vertical-scroll-proportion="0.21573605" vertical-offset="0" max-vertical-offset="4199">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="help.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/help.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="29" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="2227">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -43,10 +99,8 @@
       <file leaf-file-name="mp.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/magnific-popup/mp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="86" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="2" column="86" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -54,7 +108,7 @@
       <file leaf-file-name="magnific-popup.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/magnific-popup/magnific-popup.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="16" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6358">
+            <state line="18" column="16" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="6358">
               <folding />
             </state>
           </provider>
@@ -69,28 +123,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="78" column="13" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.44498187" vertical-offset="958" max-vertical-offset="2618">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lightbox.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lightbox/js/lightbox.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="22" selection-start="4799" selection-end="4799" vertical-scroll-proportion="-8.769231" vertical-offset="1999" max-vertical-offset="7089">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="custom-jquery-2.1.1.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/custom-jquery-2.1.1.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1412" column="2" selection-start="38094" selection-end="38094" vertical-scroll-proportion="-11.384615" vertical-offset="23504" max-vertical-offset="156162">
+            <state line="125" column="55" selection-start="3431" selection-end="3431" vertical-scroll-proportion="0.0" vertical-offset="1374" max-vertical-offset="2618">
               <folding />
             </state>
           </provider>
@@ -123,8 +159,10 @@
         <option value="$PROJECT_DIR$/js/custom-jquery-2.1.1.js" />
         <option value="$PROJECT_DIR$/main.css" />
         <option value="$PROJECT_DIR$/magnific-popup/mp.js" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/main.js" />
+        <option value="$PROJECT_DIR$/help.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -205,20 +243,6 @@
               <option name="myItemId" value="lightbox" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lightbox" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -235,20 +259,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Portfolio" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -278,6 +288,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="true" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Portfolio-2.0" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -344,7 +356,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32942554" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -371,12 +383,108 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="61" selection-start="689" selection-end="689" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4199">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="29" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magnific-popup/mp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="86" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="16" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="6358">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6749">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="55" selection-start="3431" selection-end="3431" vertical-scroll-proportion="0.0" vertical-offset="1374" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="32" selection-start="82" selection-end="82" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4199">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/help.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="29" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magnific-popup/mp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="86" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magnific-popup/magnific-popup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="16" selection-start="294" selection-end="294" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6358">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6749">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="55" selection-start="3431" selection-end="3431" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="4" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="19" column="0" selection-start="828" selection-end="828" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4216">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -401,12 +509,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="120" column="79" selection-start="5510" selection-end="5510" vertical-scroll-proportion="0.0" vertical-offset="1932" max-vertical-offset="3366">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -431,12 +537,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="48" column="108" selection-start="2788" selection-end="2788" vertical-scroll-proportion="0.0" vertical-offset="816" max-vertical-offset="1258">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -454,12 +558,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="7" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="527">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -496,26 +598,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lightbox/js/lightbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="22" selection-start="4799" selection-end="4799" vertical-scroll-proportion="-8.769231" vertical-offset="1999" max-vertical-offset="7089">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/custom-jquery-2.1.1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1412" column="2" selection-start="38094" selection-end="38094" vertical-scroll-proportion="-11.384615" vertical-offset="23504" max-vertical-offset="156162">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/magnific-popup/mp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="86" selection-start="227" selection-end="227" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -526,18 +612,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="96" column="74" selection-start="5439" selection-end="5439" vertical-scroll-proportion="-13.730769" vertical-offset="1275" max-vertical-offset="4301">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#a#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="125" column="55" selection-start="3431" selection-end="3431" vertical-scroll-proportion="0.0" vertical-offset="1374" max-vertical-offset="2618">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.js">
+    <entry file="file://$PROJECT_DIR$/help.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="78" column="13" selection-start="1645" selection-end="1645" vertical-scroll-proportion="0.44498187" vertical-offset="958" max-vertical-offset="2618">
+        <state line="45" column="29" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="21" selection-start="244" selection-end="244" vertical-scroll-proportion="0.21573605" vertical-offset="0" max-vertical-offset="4199">
           <folding />
         </state>
       </provider>
